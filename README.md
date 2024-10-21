@@ -6,7 +6,10 @@
 - ⚡ Fun fact: I love to watch animes, playing cricket and Gardening
 
   # My Projects
-  HR Analytics - youtu.be/bXuYiLul91s
+  HR Analytics -
+<link>
+
+  youtu.be/bXuYiLul91s</link>
   
 
 <!---

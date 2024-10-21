@@ -6,13 +6,4 @@
 - ⚡ Fun fact: I love to watch animes, playing cricket and Gardening
 
   # My Projects
-  HR Analytics -
-<link>
-
-  youtu.be/bXuYiLul91s</link>
-  
-
-<!---
-salvekiran/salvekiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  HR Analytics - https://www.youtube.com/watch?v=bXuYiLul91s
